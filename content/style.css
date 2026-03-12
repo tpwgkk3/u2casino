@@ -320,7 +320,7 @@ img {
 
 #a6685618956 .balance-card[data-v-7a1517396],
 #a6685618956 .wallet-card[data-v-7a1517396] {
-	background: linear-gradient(to right, ##242424, #1F1F1F);
+	background: linear-gradient(to right, #242424, #1F1F1F);
     border-left: 4px solid #e92213;
 	border-right: 4px solid #e92213;
 	border-radius: 5px;
