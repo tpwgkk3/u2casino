@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Home -->
   <url>
     <loc>https://u2casino.net/</loc>
     <lastmod>2026-03-16</lastmod>
@@ -8,6 +9,7 @@
     <priority>1.0</priority>
   </url>
 
+  <!-- Core Pages -->
   <url>
     <loc>https://u2casino.net/about.html</loc>
     <lastmod>2026-03-16</lastmod>
@@ -22,6 +24,14 @@
     <priority>0.8</priority>
   </url>
 
+  <url>
+    <loc>https://u2casino.net/faq.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Policy Pages -->
   <url>
     <loc>https://u2casino.net/privacy.html</loc>
     <lastmod>2026-03-16</lastmod>
@@ -43,6 +53,29 @@
     <priority>0.5</priority>
   </url>
 
+  <!-- Guide / Informational Pages -->
+  <url>
+    <loc>https://u2casino.net/how-to-register-u2casino.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://u2casino.net/what-is-u2casino.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://u2casino.net/u2casino-game-providers.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Language Page -->
   <url>
     <loc>https://u2casino.net/cn.html</loc>
     <lastmod>2026-03-16</lastmod>
