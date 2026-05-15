@@ -1,5 +1,12 @@
 User-agent: *
 Allow: /
 
+# Block sensitive or low-value pages (optional but recommended)
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+Disallow: /api/
+Disallow: /tmp/
+
 # Sitemap location
 Sitemap: https://u2casino.net/sitemap.xml
